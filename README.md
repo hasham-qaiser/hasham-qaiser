@@ -1,4 +1,4 @@
-#### Frontend Developer with a focus on crafting unique *user experiences* 
+#### Frontend Developer dedicated to building distinctive *user experiences.* 
 - [Personal website](https://www.hasham.xyz/)
 
 <!--
